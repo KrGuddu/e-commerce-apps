@@ -12,6 +12,12 @@ A modern, secure and responsive e-commerce web application built with React and 
 
 ---
 
+## 📂 GitHub Repository
+
+🐙 https://github.com/KrGuddu/e-commerce-apps
+
+---
+
 ## 📸 Screenshots
 
 ### Home Page
@@ -33,12 +39,6 @@ A modern, secure and responsive e-commerce web application built with React and 
 
 ### Login (Auth0)
 ![Login Page](./public/images/screenshort/Authentication.png)
-
----
-
-## 📂 GitHub Repository
-
-🐙 https://github.com/KrGuddu/e-commerce-apps
 
 ---
 
@@ -99,7 +99,7 @@ cd e-commerce-apps
 npm install
 
 # Start the development server
-npm run dev
+npm start
 
 ```
 
