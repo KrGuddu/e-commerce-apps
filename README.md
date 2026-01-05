@@ -104,7 +104,7 @@ npm run dev
 ```
 
 ## 👨‍💻 Author
-Guddu Kumar
+**Mr. Guddu Kumar**  
 Frontend / React Developer
 
 🌐 Portfolio: https://guddudev.netlify.app
