@@ -1,70 +1,112 @@
-# Getting Started with Create React App
+<h1 align="center">🛒 ShopRevive – E-Commerce Website</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">
+A modern, secure and responsive e-commerce web application built with React and Auth0 authentication.
+</p>
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## 🌐 Live Demo
 
-### `npm start`
+🔗 https://shoprevive.netlify.app/
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 📸 Screenshots
 
-### `npm test`
+### Home Page
+![Home Page](./public/images/screenshort/Home1.png)
+![Home Page](./public/images/screenshort/Home2.png)
+![Home Page](./public/images/screenshort/Home3.png)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Product Page
+![Product Details](./public/images/screenshort/Product1.png)
+![Product Details](./public/images/screenshort/Product2.png)
+![Product Details](./public/images/screenshort/Product3_footer_t&p.png)
 
-### `npm run build`
+### Product Details Page
+![Cart Page](./public/images/screenshort/Product_listing.png)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Contact Page
+![Contact via Map](./public/images/screenshort/Contact_via_map.png)
+![Contact via Email](./public/images/screenshort/Conteact_via_email.png)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Login (Auth0)
+![Login Page](./public/images/screenshort/Authentication.png)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+---
 
-### `npm run eject`
+## 📂 GitHub Repository
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+🐙 https://github.com/KrGuddu/e-commerce-apps
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+---
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## 🧾 About This Project
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+ShopRevive is a modern React-based e-commerce web application focused on performance, usability, and security. It includes essential shopping features such as product listing, product details, cart functionality, and a fully responsive user interface.
 
-## Learn More
+The project integrates **Auth0** authentication to provide secure login and logout, **protected routes**, and authentication-based UI rendering. It is built using a clean, component-based architecture and serves as a strong foundation for production-ready e-commerce platforms.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+---
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## ✨ Features
 
-### Code Splitting
+- 🛍️ Product listing with dynamic data
+- 🔍 Product details page
+- 🛒 Add to cart functionality
+- 🔐 Secure authentication using **Auth0**
+- 👤 Login / Logout with Auth0
+- 🔒 Protected routes for authenticated users
+- 📱 Fully responsive design
+- ⚡ Fast and smooth UI experience
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+---
 
-### Analyzing the Bundle Size
+## 🔐 Authentication (Auth0)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+- Authentication handled using **Auth0**
+- Secure login & logout flow
+- User session management via Auth0 SDK
+- Protected routes accessible only after login
+- Conditional UI rendering based on auth state
 
-### Making a Progressive Web App
+*(Backend integration can be added easily in future if required)*
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+---
 
-### Advanced Configuration
+## 🛠️ Tech Stack
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+- React  
+- JavaScript (ES6+)  
+- Auth0 (Authentication & Authorization)  
+- HTML5  
+- CSS3
+- Netlify (Deployment)
 
-### Deployment
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+## ▶️ Run This Project Locally
 
-### `npm run build` fails to minify
+```bash
+# Clone the repository
+git clone https://github.com/KrGuddu/e-commerce-apps.git
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# Navigate to the project directory
+cd e-commerce-apps
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm run dev
+
+```
+
+## 👨‍💻 Author
+Guddu Kumar
+Frontend / React Developer
+
+🌐 Portfolio: https://guddudev.netlify.app
+
+🐙 GitHub: https://github.com/KrGuddu
