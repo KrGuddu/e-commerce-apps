@@ -8,7 +8,7 @@ A modern, secure and responsive e-commerce web application built with React and 
 
 ## 🌐 Live Demo
 
-🔗 https://shoprevive.netlify.app/
+🔗 https://shoprevive.netlify.app
 
 ---
 
@@ -107,6 +107,6 @@ npm start
 **Mr. Guddu Kumar**  
 Frontend / React Developer
 
-🌐 Portfolio: https://guddudev.netlify.app
+🌐 Portfolio: https://krguddu.netlify.app
 
 🐙 GitHub: https://github.com/KrGuddu
